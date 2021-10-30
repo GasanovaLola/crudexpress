@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "balance":"$3,946.45",
+        "picture":"http://placehold.it/32x32",
+        "age":23,
+        "name":"Bird Ramsey",
+        "gender":"male",
+        "company":"NIMON",
+        "email":"birdramsey@nimon.com"
+    },
+    {
+        "id": 2,
+        "balance":"$3,000,000.45",
+        "picture":"http://eva.it/32x32",
+        "age":23,
+        "name":"Eva Gasanova",
+        "gender":"male",
+        "company":"NIMON",
+        "email":"birdramsey@nimon.com"
+    },
+    {
+        "id": 3,
+        "balance":"$2,820.18",
+        "picture":"http://placehold.it/32x32",
+        "age":34,"name":"Kristie Cole",
+        "gender":"female",
+        "company":"QUADEEBO",
+        "email":"kristiecole@quadeebo.com"
+    },
+    {
+        "id": 4,
+        "balance":"$3,277.32",
+        "picture":"http://placehold.it/32x32",
+        "age":30,"name":"Leonor Cross",
+        "gender":"female",
+        "company":"GRONK",
+        "email":"leonorcross@gronk.com"
+    },
+    {
+        "id": 5,
+        "balance":"$3,277.32",
+        "picture":"http://placehold.it/32x32",
+        "age":30,"name":"Leonor Cross",
+        "gender":"female",
+        "company":"GRONK",
+        "email":"leonorcross@gronk.com"
+    },
+    {
+        "id": 6,
+        "balance":"$3,277.32",
+        "picture":"http://placehold.it/32x32",
+        "age":30,"name":"Leonor Cross",
+        "gender":"female",
+        "company":"GRONK",
+        "email":"leonorcross@gronk.com"
+    }
+]
